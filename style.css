@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial;
+    background: #e6f2ff;
+    text-align: center;
+}
+
+.container {
+    background: white;
+    width: 350px;
+    margin: 100px auto;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px;
+}
+
+button {
+    padding: 10px;
+    margin: 5px;
+    background: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+h3 {
+    color: green;
+}
